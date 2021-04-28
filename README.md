@@ -5,12 +5,6 @@
 
 -->
 
-<a href="https://twitter.com/bobbypaton">
-  <img align="left" alt="Robert Paton | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
-</p>
-
 <!--- 
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
