@@ -9,7 +9,7 @@
   <img align="left" alt="Robert Paton | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-</br>
+</p>
 
 <!--- 
   if you have forked this to use on your profile, 
