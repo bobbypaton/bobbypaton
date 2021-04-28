@@ -4,9 +4,12 @@
 **bobbypaton/bobbypaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+
 <a href="https://twitter.com/bobbypaton">
   <img align="left" alt="Robert Paton | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+
+</br>
 
 <!--- 
   if you have forked this to use on your profile, 
